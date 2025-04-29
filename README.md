@@ -1,1 +1,2 @@
 # pydantic-duckdb
+# pydantic-duckdb
